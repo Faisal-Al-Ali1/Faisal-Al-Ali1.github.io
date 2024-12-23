@@ -14,7 +14,6 @@ The portfolio is hosted at: [Faisal Al Ali Portfolio](https://faisal-al-ali1.git
 
 2. **About Section**
    - Detailed information about Faisal's background, education, and professional interests.
-   - Highlights of key skills and competencies.
 
 3. **Projects Section**
    - Showcase of notable projects with descriptions, technologies used, and links for further exploration.
@@ -55,3 +54,9 @@ This portfolio is publicly available for viewing purposes. Content and design ar
 ---
 
 Thank you for visiting the portfolio!
+
+---
+
+## Mockup & Wireframe
+
+[Porfolio Design.](https://www.figma.com/design/ZNKLMt1qUOzwvyiIZhZM7v/Coffeebean?node-id=107-1821&p=f&t=zgYQhW6fNaqygm1a-0)
